@@ -1,0 +1,25 @@
+{
+  "name": "ELITUS MEDICS U25",
+  "short_name": "ELITUS U25",
+  "description": "Digital academic ecosystem for medical students — quizzes, leaderboards, resources, and community.",
+  "start_url": "/dashboard",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0A0A0F",
+  "theme_color": "#0A0A0F",
+  "icons": [
+    {
+      "src": "/icon-512.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
